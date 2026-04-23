@@ -32,10 +32,13 @@
           <mxGeometry y="26" width="140" height="26" as="geometry" />
         </mxCell>
         <mxCell id="aec_ce-27ivKj3vd8z24-1" value="菜品口味表" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#ffe6cc;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="520" y="295" width="140" height="54" as="geometry" />
+          <mxGeometry x="520" y="295" width="140" height="82" as="geometry" />
         </mxCell>
         <mxCell id="aec_ce-27ivKj3vd8z24-2" value="+ id: bigint" style="text;strokeColor=#b85450;fillColor=#f8cecc;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="aec_ce-27ivKj3vd8z24-1">
           <mxGeometry y="26" width="140" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="aec_ce-27ivKj3vd8z24-4" value="+ id: bigint" style="text;strokeColor=#b85450;fillColor=#f8cecc;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="aec_ce-27ivKj3vd8z24-1">
+          <mxGeometry y="54" width="140" height="28" as="geometry" />
         </mxCell>
         <mxCell id="aec_ce-27ivKj3vd8z24-3" value="" style="endArrow=none;html=1;rounded=0;entryX=-0.014;entryY=0.036;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="oYsIdU9BF3lHSXVN1i_O-10" target="aec_ce-27ivKj3vd8z24-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
