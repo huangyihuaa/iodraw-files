@@ -19,7 +19,7 @@
         <mxCell id="oYsIdU9BF3lHSXVN1i_O-9" value="+ type: int" style="text;strokeColor=#b85450;fillColor=#f8cecc;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="oYsIdU9BF3lHSXVN1i_O-7" vertex="1">
           <mxGeometry y="52" width="140" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="aec_ce-27ivKj3vd8z24-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="oYsIdU9BF3lHSXVN1i_O-10" target="oYsIdU9BF3lHSXVN1i_O-12">
+        <mxCell id="aec_ce-27ivKj3vd8z24-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=0;" edge="1" parent="1" source="oYsIdU9BF3lHSXVN1i_O-10" target="oYsIdU9BF3lHSXVN1i_O-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="aec_ce-27ivKj3vd8z24-8" value="n-1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="aec_ce-27ivKj3vd8z24-7">
